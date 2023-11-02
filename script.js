@@ -63,7 +63,7 @@ arryOfButtons.forEach((eachElement) => {
 
 const naam = (a, b) => {
   return a + b;
-};
+}
 
 function afterOperatorClicked() {
   if (res != 0 && inputdata != "") {

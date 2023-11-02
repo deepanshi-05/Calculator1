@@ -2,7 +2,7 @@
     margin:0;
     padding:0;
     box-sizing: border-box;
-    border: 1px solid red;
+    border: 1px solid rgb(0, 255, 76);
 }
 .major-con{
     width:100%;
